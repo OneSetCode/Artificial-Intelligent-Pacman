@@ -1,1 +1,2 @@
 # Pacman
+This project implements several artificial intelligence algorithms including BFS/DFS Search, Informed Search, Adversarial Search, Efficient Adversarial Search, Constraint Satisfaction Problems, Markov Decision Processes, Passive Reinforcement Learning, Graphical Models, Bayes' Net Sampling, and Dynamic Bayes' Nets and Particle Filters to help the pacman eat the foods and avoid the ghosts, and obtain the highest score.  
